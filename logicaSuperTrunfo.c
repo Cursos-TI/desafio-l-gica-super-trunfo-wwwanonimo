@@ -147,8 +147,8 @@ int main(){
     printf(">");
     scanf("%d", &opcao_2);
 
-    //RESULTADO SEGUNDO ATRIBUTO
-    printf("===Resultado do primeiro Atributos===\n");    
+    //RESULTADO PRIMEIRO ATRIBUTO
+    printf("===Resultado do primeiro Atributo===\n");    
     switch (opcao)
     {
         case 1:
@@ -264,7 +264,7 @@ int main(){
     }
 
     //RESULTADO SEGUNDO ATRIBUTO
-    printf("===Resultado do segundo Atributos===\n");    
+    printf("===Resultado do segundo Atributo===\n");    
     switch (opcao_2)
     {
         case 1:
